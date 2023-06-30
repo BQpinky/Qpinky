@@ -1,0 +1,2 @@
+# Qpinky
+magazine app
